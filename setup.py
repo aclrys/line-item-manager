@@ -78,7 +78,7 @@ setup(
     package_data={'line_item_manager': package_data},
     setup_requires=setup_requirements,
     test_suite='tests',
-    url='https://github.com/prebid/line-item-manager',
+    url='https://github.com/aclrys/line-item-manager',
     version='0.2.6',
     zip_safe=False,
 )

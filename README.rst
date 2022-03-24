@@ -83,7 +83,7 @@ Local Development
 Installing and running line_item_manager locally using docker
 ::
 
-   $ git clone git://github.com/prebid/line-item-manager
+   $ git clone git://github.com/aclrys/line-item-manager
    $ cd line-item-manager
    $ command='line_item_manager' extra_args='--help' make docker-run
 
@@ -107,6 +107,6 @@ Credits
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
-.. _`config`: https://github.com/prebid/line-item-manager/blob/master/line_item_manager/conf.d/line_item_manager.yml
+.. _`config`: https://github.com/aclrys/line-item-manager/blob/master/line_item_manager/conf.d/line_item_manager.yml
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
